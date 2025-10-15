@@ -27,17 +27,16 @@ Requirements
 Python 3.x installed on your system
 
 Steps
-Open a terminal or command prompt.
-
+Step 1:Open a terminal or command prompt.
 Navigate to the directory where the repository files are located.
-
 Run the following command (replace the filename with your PDF):
 
-text
-python parse.py.py <your-statement.pdf>
-Example:
+python parse.py
 
-text
+if u want direct result
+
+python parse.py.py <your-statement.pdf>
+
 python parse.py.py SBI.pdf
 The script will process your PDF and display or save the results as programmed.
 
