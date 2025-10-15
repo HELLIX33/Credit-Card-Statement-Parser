@@ -28,8 +28,10 @@ Requirements
 Python 3.x installed on your system
 
 Steps
-Step 1:Open a terminal or command prompt.
+Open a terminal or command prompt.
+
 Navigate to the directory where the repository files are located.
+
 Run the following command (replace the filename with your PDF):
 
 python parse.py
