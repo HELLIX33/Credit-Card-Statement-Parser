@@ -1,4 +1,5 @@
 Credit Card Statement Parser
+
 This project helps you parse credit card statements in PDF format. You can use it in two ways:
 
 Via the HTML interface (no installation needed)
